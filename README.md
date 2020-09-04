@@ -4,5 +4,5 @@ La repository contiene una pagina Web Statica che presenta unicamente la mappa d
 
 Oltre al file index.html, è presente la cartella 'assets' che contiene tutti i file CSS, JS (i file GeoJSON sono stati convertiti in file JS) e le immagini. 
 
-Si può consultare un'anteprima della pagina web all'indirizzo: 
+Si può consultare un'anteprima della pagina web all'indirizzo: https://teorizzi0.github.io/insubriparks_SampleMap/.
 
